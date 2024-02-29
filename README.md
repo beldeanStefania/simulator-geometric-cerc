@@ -1,4 +1,4 @@
-# LAB5_CERC
+# Simulator geometric al cercului
 Sa se creeze o aplicatie care sa permita gestionarea mai multor
 ENTITATI:
 - Introducerea informatiilor despre mai multe ENTITATI si salvarea lor intr-un sir
